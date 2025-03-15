@@ -51,18 +51,25 @@ While Android development is my primary focus, I'm also exploring web developmen
 <div align="left">
   <table>
     <tr>
-      <td width="50%" align="left" valign="top">
+      <td width="33%" align="left" valign="top">
         <div style="padding: 20px; border-radius: 12px; margin: 10px; background-color: #21262d; border: 1px solid #30363d;">
           <h3><a href="https://github.com/gavin100305/ai-chatbot" style="color: #58a6ff; text-decoration: none; font-weight: bold;">AI Chatbot 🤖</a></h3>
           <p>An AI-powered chatbot that provides smart responses and integrates with Firebase.</p>
           <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Gemini AI, Firebase</p>
         </div>
       </td>
-      <td width="50%" align="left" valign="top">
+      <td width="33%" align="left" valign="top">
         <div style="padding: 20px; border-radius: 12px; margin: 10px; background-color: #21262d; border: 1px solid #30363d;">
           <h3><a href="https://github.com/gavin100305/coffeeshop-app" style="color: #58a6ff; text-decoration: none; font-weight: bold;">Coffee Shop App ☕</a></h3>
           <p>A modern coffee shop ordering app with real-time order tracking.</p>
           <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase, Payment Gateway</p>
+        </div>
+      </td>
+      <td width="33%" align="left" valign="top">
+        <div style="padding: 20px; border-radius: 12px; margin: 10px; background-color: #21262d; border: 1px solid #30363d;">
+          <h3><a href="https://github.com/gavin100305/ai-landmark-recognizer" style="color: #58a6ff; text-decoration: none; font-weight: bold;">AI Landmark Recognizer 🏛️</a></h3>
+          <p>An AI-powered app that identifies landmarks using image recognition.</p>
+          <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase, Machine Learning</p>
         </div>
       </td>
     </tr>
@@ -71,6 +78,7 @@ While Android development is my primary focus, I'm also exploring web developmen
 
 <br />
 <br />
+
 
 
 <div align="center">
