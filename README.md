@@ -12,10 +12,9 @@
 
 <div align="left">
 
-🚀 **I'm an Android Developer** passionate about building innovative mobile applications using **Kotlin, Jetpack Compose, and Firebase**.  
-I'm also exploring **AI/ML** and working on OpenStreetView map integration.  
+🚀 **I'm an Android Developer** passionate about building innovative and scalable mobile applications using **Kotlin**, **Jetpack Compose**, and **Firebase**.
 
-When I'm not coding, you'll find me **exploring new tech and solving coding challenges.** 🚀  
+While Android development is my primary focus, I'm also exploring web development with **Django** and **React**, expanding my skill set to create full-stack applications. Additionally, I'm delving into **AI/ML** to enhance user experiences with intelligent and data-driven features. 🚀
 
 </div>
 <br />
