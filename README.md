@@ -52,34 +52,26 @@ While Android development is my primary focus, I'm also exploring web developmen
   <table>
     <tr>
       <td width="33%" align="left" valign="top">
-        <div style="padding: 20px; border-radius: 12px; margin: 10px; background-color: #21262d; border: 1px solid #30363d;">
-          <h3><a href="https://github.com/gavin100305/ChatBot-Android-" style="color: #58a6ff; text-decoration: none; font-weight: bold;">AI Chatbot 🤖</a></h3>
-          <p>An AI-powered chatbot that provides smart responses and integrates with Firebase.</p>
-          <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Gemini AI, Firebase</p>
-        </div>
+        <h3><a href="https://github.com/gavin100305/ChatBot-Android-" style="color: #58a6ff; text-decoration: none; font-weight: bold;">AI Chatbot 🤖</a></h3>
+        <p>An AI-powered chatbot that provides smart responses and integrates with Firebase.</p>
+        <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Gemini AI, Firebase</p>
       </td>
       <td width="33%" align="left" valign="top">
-        <div style="padding: 20px; border-radius: 12px; margin: 10px; background-color: #21262d; border: 1px solid #30363d;">
-          <h3><a href="https://github.com/gavin100305/coffeeShopApp" style="color: #58a6ff; text-decoration: none; font-weight: bold;">Coffee Shop App ☕</a></h3>
-          <p>A modern coffee shop ordering app with real-time order tracking.</p>
-          <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase, Payment Gateway</p>
-        </div>
+        <h3><a href="https://github.com/gavin100305/coffeeShopApp" style="color: #58a6ff; text-decoration: none; font-weight: bold;">Coffee Shop App ☕</a></h3>
+        <p>A modern coffee shop ordering app with real-time order tracking.</p>
+        <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase, Payment Gateway</p>
       </td>
       <td width="33%" align="left" valign="top">
-        <div style="padding: 20px; border-radius: 12px; margin: 10px; background-color: #21262d; border: 1px solid #30363d;">
-          <h3><a href="https://github.com/gavin100305/Ai-Landmark-recognizer" style="color: #58a6ff; text-decoration: none; font-weight: bold;">AI Landmark Recognizer 🏛️</a></h3>
-          <p>An AI-powered app that identifies landmarks using image recognition.</p>
-          <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase, Machine Learning</p>
-        </div>
+        <h3><a href="https://github.com/gavin100305/Ai-Landmark-recognizer" style="color: #58a6ff; text-decoration: none; font-weight: bold;">AI Landmark Recognizer 🏛️</a></h3>
+        <p>An AI-powered app that identifies landmarks using image recognition.</p>
+        <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase, Machine Learning</p>
       </td>
     </tr>
     <tr>
       <td width="33%" align="left" valign="top">
-        <div style="padding: 20px; border-radius: 12px; margin: 10px; background-color: #21262d; border: 1px solid #30363d;">
-          <h3><a href="https://github.com/gavin100305/ChatRoomApp" style="color: #58a6ff; text-decoration: none; font-weight: bold;">Chat Room App 💬</a></h3>
-          <p>A real-time chat application that enables seamless communication with instant messaging and Firebase integration.</p>
-          <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase, WebSockets</p>
-        </div>
+        <h3><a href="https://github.com/gavin100305/ChatRoomApp" style="color: #58a6ff; text-decoration: none; font-weight: bold;">Chat Room App 💬</a></h3>
+        <p>A real-time chat application that enables seamless communication with instant messaging and Firebase integration.</p>
+        <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase, WebSockets</p>
       </td>
     </tr>
   </table>
@@ -88,22 +80,25 @@ While Android development is my primary focus, I'm also exploring web developmen
 <br />
 <br />
 
-
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gavin100305&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gavin100305&show_icons=true&theme=radical&cache_seconds=1800" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavin100305&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gavin100305&layout=compact&theme=radical&cache_seconds=1800" />
 </div>
 
 <br />
 <br />
 
+## 🌐 Connect with Me  
 <p align="center">
-  <a href="[https://linkedin.com/in/gavin100305](https://www.linkedin.com/in/gavin-soares-a2a54728b/)">
+  <a href="https://www.linkedin.com/in/gavin-soares-a2a54728b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gavinsoares200510@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+⭐ _Feel free to explore my repositories and contribute!_  
