@@ -71,7 +71,7 @@ While Android development is my primary focus, I'm also exploring web developmen
       <td width="33%" align="left" valign="top">
         <h3><a href="https://github.com/gavin100305/ChatRoomApp" style="color: #58a6ff; text-decoration: none; font-weight: bold;">Chat Room App 💬</a></h3>
         <p>A real-time chat application that enables seamless communication with instant messaging and Firebase integration.</p>
-        <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase, WebSockets</p>
+        <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase</p>
       </td>
     </tr>
   </table>
