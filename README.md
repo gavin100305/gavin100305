@@ -2,7 +2,12 @@
 <h1>Hi there, I'm Gavin 👋</h1>
 </div>
 
-![github-user-contribution](https://github.com/user-attachments/assets/dabaec54-5220-4445-a910-6619d56e0e7c)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gavin100305/gavin100305/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gavin100305/gavin100305/blob/manual-run-output/only-svg/github-contribution-grid-snake-light.svg">
+  <img alt="GitHub Contribution Snake" src="https://github.com/gavin100305/gavin100305/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+</picture>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Android+Developer;AI/ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
