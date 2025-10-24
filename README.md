@@ -91,39 +91,38 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gavin100305/TISD-Website">TISD - Tracking Innovation & Sustainable Development</a></h3>
+    <td width="50%" style="padding: 15px; text-align: center;">
       <a href="https://github.com/gavin100305/TISD-Website">
-        <img src="public/TISD-Website.png" alt="TISD Website" width="100%"/>
+        <img src="public/TISD-Website.png" alt="TISD Website" width="85%"/>
       </a>
-      <p>A comprehensive web-based platform for project documentation, collaboration, and SDG monitoring. Features systematic project tracking, intelligent mentor-student matching, and real-time progress monitoring with advanced analytics powered by Gemini API.</p>
-      <p><strong>Tech Stack:</strong> React, Django, Python, TailwindCSS, Gemini API, SQLite</p>
+      <h3><a href="https://github.com/gavin100305/TISD-Website" style="color: white; text-decoration: none;">TISD - Tracking Innovation & Sustainable Development</a></h3>
+      <p align="left">A comprehensive web platform designed for systematic project tracking, SDG alignment, and institutional collaboration. Features intelligent mentor-student matching, real-time progress monitoring, and advanced analytics powered by Gemini API for generating insightful reports.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gavin100305/Neurolytics">Neurolytics - Web-Based Experiment Platform</a></h3>
+    <td width="50%" style="padding: 15px; text-align: center;">
       <a href="https://github.com/gavin100305/Neurolytics">
-        <img src="public/Neurolytics.png" alt="Neurolytics" width="100%"/>
+        <img src="public/Neurolytics.png" alt="Neurolytics" width="85%"/>
       </a>
-      <p>A no-code/low-code research tool enabling researchers to design, deploy, and collect behavioral experiments online. Features high-precision timing, visual experiment builder, secure data handling, and support for audio/voice responses with AI-powered analytics.</p>
-      <p><strong>Tech Stack:</strong> React, Vite, Node.js, Express, MongoDB, Firebase, Cloudinary</p>
+      <h3><a href="https://github.com/gavin100305/Neurolytics" style="color: white; text-decoration: none;">Neurolytics</a></h3>
+      <p align="left">A no-code/low-code research tool that enables researchers to design, deploy, and collect behavioral experiments online. Includes high-precision timing engine, visual experiment builder, secure data handling, and support for audio/voice responses with comprehensive analytics.</p>
     </td>
   </tr>
+  <tr style="height: 30px;">
+    <td colspan="2"></td>
+  </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gavin100305/BitNBuild-25_TeamCotton">NourishNet - Food Delivery Platform</a></h3>
+    <td width="50%" style="padding: 15px; text-align: center;">
       <a href="https://github.com/gavin100305/BitNBuild-25_TeamCotton">
-        <img src="public/NourishNet.png" alt="NourishNet" width="100%"/>
+        <img src="public/NourishNet.png" alt="NourishNet" width="85%"/>
       </a>
-      <p>A comprehensive food delivery and meal subscription platform connecting customers with local vendors. Features multi-tiered architecture with dedicated apps for customers, vendors, drivers, and administrators, with real-time tracking and route optimization.</p>
-      <p><strong>Tech Stack:</strong> React Native, Expo, Node.js, MongoDB, Firebase, Razorpay, Cloudinary</p>
+      <h3><a href="https://github.com/gavin100305/BitNBuild-25_TeamCotton" style="color: white; text-decoration: none;">NourishNet</a></h3>
+      <p align="left">A comprehensive food delivery and meal subscription platform connecting customers with local vendors. Built with multi-tiered architecture featuring dedicated applications for customers, vendors, drivers, and administrators with real-time delivery tracking and route optimization.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gavin100305/Zenith">Zenith - AI-Powered Career Platform</a></h3>
+    <td width="50%" style="padding: 15px; text-align: center;">
       <a href="https://github.com/gavin100305/Zenith">
-        <img src="public/Zenith.png" alt="Zenith" width="100%"/>
+        <img src="public/Zenith.png" alt="Zenith" width="85%"/>
       </a>
-      <p>An AI-driven platform helping students and job seekers land their dream roles through intelligent upskilling, personalized job matching, and real-world project-based learning. Features smart resume parsing, AI interview practice, and skill mapping.</p>
-      <p><strong>Tech Stack:</strong> React, Vite, TailwindCSS, Node.js, MongoDB, FastAPI, Python, Groq, Gemini</p>
+      <h3><a href="https://github.com/gavin100305/Zenith" style="color: white; text-decoration: none;">Zenith</a></h3>
+      <p align="left">An AI-driven career platform helping students and job seekers land their dream roles through intelligent upskilling and personalized job matching. Features smart resume parsing, AI interview practice with real-time feedback, skill mapping, and project-based learning recommendations.</p>
     </td>
   </tr>
 </table>
