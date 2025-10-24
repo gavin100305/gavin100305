@@ -3,12 +3,9 @@
 </div>
 
 <picture>
-  <!-- Prefer the generated GIF (animated) for dark theme. If not available, fall back to dark SVG -->
-  <source type="image/gif" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake.gif">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
-  <!-- img src should point to dark theme fallback -->
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake.gif">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake.gif" />
 </picture>
 
 
