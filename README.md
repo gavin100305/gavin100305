@@ -85,7 +85,48 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 </p>
 
+<br />
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gavin100305/TISD-Website">TISD - Tracking Innovation & Sustainable Development</a></h3>
+      <a href="https://github.com/gavin100305/TISD-Website">
+        <img src="public/TISD-Website.png" alt="TISD Website" width="100%"/>
+      </a>
+      <p>A comprehensive web-based platform for project documentation, collaboration, and SDG monitoring. Features systematic project tracking, intelligent mentor-student matching, and real-time progress monitoring with advanced analytics powered by Gemini API.</p>
+      <p><strong>Tech Stack:</strong> React, Django, Python, TailwindCSS, Gemini API, SQLite</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gavin100305/Neurolytics">Neurolytics - Web-Based Experiment Platform</a></h3>
+      <a href="https://github.com/gavin100305/Neurolytics">
+        <img src="public/Neurolytics.png" alt="Neurolytics" width="100%"/>
+      </a>
+      <p>A no-code/low-code research tool enabling researchers to design, deploy, and collect behavioral experiments online. Features high-precision timing, visual experiment builder, secure data handling, and support for audio/voice responses with AI-powered analytics.</p>
+      <p><strong>Tech Stack:</strong> React, Vite, Node.js, Express, MongoDB, Firebase, Cloudinary</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gavin100305/BitNBuild-25_TeamCotton">NourishNet - Food Delivery Platform</a></h3>
+      <a href="https://github.com/gavin100305/BitNBuild-25_TeamCotton">
+        <img src="public/NourishNet.png" alt="NourishNet" width="100%"/>
+      </a>
+      <p>A comprehensive food delivery and meal subscription platform connecting customers with local vendors. Features multi-tiered architecture with dedicated apps for customers, vendors, drivers, and administrators, with real-time tracking and route optimization.</p>
+      <p><strong>Tech Stack:</strong> React Native, Expo, Node.js, MongoDB, Firebase, Razorpay, Cloudinary</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gavin100305/Zenith">Zenith - AI-Powered Career Platform</a></h3>
+      <a href="https://github.com/gavin100305/Zenith">
+        <img src="public/Zenith.png" alt="Zenith" width="100%"/>
+      </a>
+      <p>An AI-driven platform helping students and job seekers land their dream roles through intelligent upskilling, personalized job matching, and real-world project-based learning. Features smart resume parsing, AI interview practice, and skill mapping.</p>
+      <p><strong>Tech Stack:</strong> React, Vite, TailwindCSS, Node.js, MongoDB, FastAPI, Python, Groq, Gemini</p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
