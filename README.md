@@ -60,52 +60,21 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 
 <br />
 
-## 🚀 Projects  
+## GitHub Stats  
 
-<div align="left">
-  <table>
-    <tr>
-      <td width="33%" align="left" valign="top">
-        <h3><a href="https://github.com/gavin100305/ChatBot-Android-" style="color: #58a6ff; text-decoration: none; font-weight: bold;">AI Chatbot 🤖</a></h3>
-        <p>An AI-powered chatbot that provides smart responses and integrates with Firebase.</p>
-        <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Gemini AI, Firebase</p>
-      </td>
-      <td width="33%" align="left" valign="top">
-        <h3><a href="https://github.com/gavin100305/coffeeShopApp" style="color: #58a6ff; text-decoration: none; font-weight: bold;">Coffee Shop App ☕</a></h3>
-        <p>A modern coffee shop ordering app with real-time order tracking.</p>
-        <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase, Payment Gateway</p>
-      </td>
-      <td width="33%" align="left" valign="top">
-        <h3><a href="https://github.com/gavin100305/Ai-Landmark-recognizer" style="color: #58a6ff; text-decoration: none; font-weight: bold;">AI Landmark Recognizer 🏛️</a></h3>
-        <p>An AI-powered app that identifies landmarks using image recognition.</p>
-        <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase, Machine Learning</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" align="left" valign="top">
-        <h3><a href="https://github.com/gavin100305/ChatRoomApp" style="color: #58a6ff; text-decoration: none; font-weight: bold;">Chat Room App 💬</a></h3>
-        <p>A real-time chat application that enables seamless communication with instant messaging and Firebase integration.</p>
-        <p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, Firebase</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-<br />
-
-## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gavin100305&show_icons=true&theme=dark" alt="gavin100305" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gavin100305&layout=compact&theme=dark&langs_count=6" width="49%" height="195px"/>
+</p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gavin100305&show_icons=true&theme=radical&cache_seconds=1800" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gavin100305&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gavin100305&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
 <br />
 <br />
 
-## 🌐 Connect with Me  
+## Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/gavin-soares-a2a54728b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -114,5 +83,3 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-⭐ _Feel free to explore my repositories and contribute!_
