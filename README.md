@@ -3,9 +3,12 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gavin100305/gavin100305/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gavin100305/gavin100305/blob/manual-run-output/only-svg/github-contribution-grid-snake-light.svg">
-  <img alt="GitHub Contribution Snake" src="https://github.com/gavin100305/gavin100305/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+  <!-- Prefer the generated GIF (animated). If not available, fall back to SVGs for dark/light themes. -->
+  <source type="image/gif" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/only-svg/github-contribution-grid-snake-light.svg">
+  <!-- img src should point to a stable fallback (dark SVG) so something is shown while the GIF/other sources may be unavailable -->
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 
