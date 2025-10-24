@@ -157,14 +157,25 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 </div>
 
 <br />
+
+## Connect with Me
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/gavin100305?label=Followers&style=for-the-badge&color=9932CC&labelColor=black" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/gavin100305?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=black" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=gavin100305&label=Profile%20Views&color=FF6B6B&style=for-the-badge&labelColor=black" alt="Profile Views" />
+</p>
+
 <br />
 
-## Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/gavin-soares-a2a54728b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gavinsoares200510@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/gavin100305">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
