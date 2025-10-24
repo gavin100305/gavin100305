@@ -3,10 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Gavin+Soares;Full+Stack+Developer;AI/ML+Developer" alt="Typing SVG" />
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake.gif">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake.svg" />
 </picture>
+
 <br />
 <br />
 
