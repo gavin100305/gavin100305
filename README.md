@@ -91,18 +91,26 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 
 <table>
   <tr>
-    <td width="50%" style="padding: 15px; text-align: center;">
+    <td width="50%" style="padding: 15px;" align="center">
       <a href="https://github.com/gavin100305/TISD-Website">
         <img src="public/TISD-Website.png" alt="TISD Website" width="85%"/>
       </a>
-      <h3><a href="https://github.com/gavin100305/TISD-Website" style="color: white; text-decoration: none;">TISD - Tracking Innovation & Sustainable Development</a></h3>
+      <h3>
+        <a href="https://github.com/gavin100305/TISD-Website">
+          <span style="color: #ffffff !important;">TISD - Tracking Innovation & Sustainable Development</span>
+        </a>
+      </h3>
       <p align="left">A comprehensive web platform designed for systematic project tracking, SDG alignment, and institutional collaboration. Features intelligent mentor-student matching, real-time progress monitoring, and advanced analytics powered by Gemini API for generating insightful reports.</p>
     </td>
-    <td width="50%" style="padding: 15px; text-align: center;">
+    <td width="50%" style="padding: 15px;" align="center">
       <a href="https://github.com/gavin100305/Neurolytics">
         <img src="public/Neurolytics.png" alt="Neurolytics" width="85%"/>
       </a>
-      <h3><a href="https://github.com/gavin100305/Neurolytics" style="color: white; text-decoration: none;">Neurolytics</a></h3>
+      <h3>
+        <a href="https://github.com/gavin100305/Neurolytics">
+          <span style="color: #ffffff !important;">Neurolytics</span>
+        </a>
+      </h3>
       <p align="left">A no-code/low-code research tool that enables researchers to design, deploy, and collect behavioral experiments online. Includes high-precision timing engine, visual experiment builder, secure data handling, and support for audio/voice responses with comprehensive analytics.</p>
     </td>
   </tr>
@@ -110,18 +118,26 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
     <td colspan="2"></td>
   </tr>
   <tr>
-    <td width="50%" style="padding: 15px; text-align: center;">
+    <td width="50%" style="padding: 15px;" align="center">
       <a href="https://github.com/gavin100305/BitNBuild-25_TeamCotton">
         <img src="public/NourishNet.png" alt="NourishNet" width="85%"/>
       </a>
-      <h3><a href="https://github.com/gavin100305/BitNBuild-25_TeamCotton" style="color: white; text-decoration: none;">NourishNet</a></h3>
+      <h3>
+        <a href="https://github.com/gavin100305/BitNBuild-25_TeamCotton">
+          <span style="color: #ffffff !important;">NourishNet</span>
+        </a>
+      </h3>
       <p align="left">A comprehensive food delivery and meal subscription platform connecting customers with local vendors. Built with multi-tiered architecture featuring dedicated applications for customers, vendors, drivers, and administrators with real-time delivery tracking and route optimization.</p>
     </td>
-    <td width="50%" style="padding: 15px; text-align: center;">
+    <td width="50%" style="padding: 15px;" align="center">
       <a href="https://github.com/gavin100305/Zenith">
         <img src="public/Zenith.png" alt="Zenith" width="85%"/>
       </a>
-      <h3><a href="https://github.com/gavin100305/Zenith" style="color: white; text-decoration: none;">Zenith</a></h3>
+      <h3>
+        <a href="https://github.com/gavin100305/Zenith">
+          <span style="color: #ffffff !important;">Zenith</span>
+        </a>
+      </h3>
       <p align="left">An AI-driven career platform helping students and job seekers land their dream roles through intelligent upskilling and personalized job matching. Features smart resume parsing, AI interview practice with real-time feedback, skill mapping, and project-based learning recommendations.</p>
     </td>
   </tr>
