@@ -148,7 +148,6 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gavin100305&show_icons=true&theme=dark" alt="gavin100305" width="49%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gavin100305&layout=compact&theme=dark&langs_count=6" width="49%" height="195px"/>
 </p>
 
