@@ -156,23 +156,43 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 
 ## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavin100305&layout=compact&theme=dark&langs_count=6"
-    width="49%"
-    height="195px"
-    alt="Top Languages"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=gavin100305&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
+        alt="Gavin's GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavin100305&layout=compact&theme=dark&hide_border=true&langs_count=6"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=gavin100305&theme=dark&hide_border=true"
+        alt="GitHub Contribution Streak"
+        width="70%"
+      />
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gavin100305&theme=react-dark&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gavin100305&theme=react-dark"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
   />
 </div>
-
-<br />
 
 ## Connect with Me
 
