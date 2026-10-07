@@ -1,7 +1,7 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Gavin+Soares;Full+Stack+Developer;AI/ML+Developer" alt="Typing SVG" />
 </div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gavin100305/gavin100305/manual-run-output/docker/github-contribution-grid-snake.svg">
@@ -13,16 +13,19 @@
 
 <div align="left">
 
-**I'm a passionate developer** focused on building **scalable and full-stack applications** using **Node.js**, **Python**, and modern web technologies.  
+**I'm a passionate developer** focused on building **scalable and full-stack applications** using **Node.js**, **Python**, and modern web technologies.
 
 I am also exploring **AI/ML**, integrating intelligent and data-driven features to enhance user experiences. My goal is to continuously expand my skill set and develop applications that are robust, innovative, and future-ready.
 
 </div>
+
 <br />
 <br />
 
-## Technologies & Tools  
+## Technologies & Tools
+
 ## Languages
+
 <p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
@@ -33,6 +36,7 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 ---
 
 ## Frontend Development
+
 <p align="left">
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
@@ -41,6 +45,7 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 ---
 
 ## Backend Development
+
 <p align="left">
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
@@ -50,6 +55,7 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 ---
 
 ## Mobile Development
+
 <p align="left">
   <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="https://expo.dev/"><img src="https://img.shields.io/badge/-Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" /></a>
@@ -58,6 +64,7 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 ---
 
 ## AI / Machine Learning
+
 <p align="left">
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
@@ -70,6 +77,7 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 ---
 
 ## Databases
+
 <p align="left">
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
@@ -79,6 +87,7 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 ---
 
 ## Developer Tools
+
 <p align="left">
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
@@ -145,14 +154,22 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 
 <br />
 
-## GitHub Stats  
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gavin100305&layout=compact&theme=dark&langs_count=6" width="49%" height="195px"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavin100305&layout=compact&theme=dark&langs_count=6"
+    width="49%"
+    height="195px"
+    alt="Top Languages"
+  />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gavin100305&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gavin100305&theme=react-dark&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
 </div>
 
 <br />
