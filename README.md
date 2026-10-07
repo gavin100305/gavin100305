@@ -188,7 +188,7 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gavin100305&theme=react-dark"
+    src="https://raw.githubusercontent.com/gavin100305/gavin100305/output/activity-graph.svg"
     alt="GitHub Contribution Activity Graph"
     width="100%"
   />
