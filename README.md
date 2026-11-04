@@ -160,14 +160,14 @@ I am also exploring **AI/ML**, integrating intelligent and data-driven features 
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=gavin100305&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
+        src="https://github-stats-extended.vercel.app/api?username=gavin100305&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
         alt="Gavin's GitHub Stats"
         width="100%"
       />
     </td>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavin100305&layout=compact&theme=dark&hide_border=true&langs_count=6"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=gavin100305&layout=compact&theme=dark&hide_border=true&langs_count=6"
         alt="Top Languages"
         width="100%"
       />
